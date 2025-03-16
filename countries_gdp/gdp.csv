@@ -1,0 +1,190 @@
+country_name,gdp,year
+United States,30337162.0,2025
+China,19534894.0,2025
+Germany,4921563.0,2025
+Japan,4389326.0,2025
+India,4271922.0,2025
+United Kingdom,3730261.0,2025
+France,3283429.0,2025
+Italy,2459597.0,2025
+Canada,2330308.0,2025
+Brazil,2307162.0,2025
+Russia,2195708.0,2025
+South Korea,1947133.0,2025
+Australia,1881140.0,2025
+Spain,1827576.0,2025
+Mexico,1817818.0,2025
+Indonesia,1492618.0,2025
+Turkey,1455413.0,2025
+Netherlands,1272960.0,2025
+Saudi Arabia,1136580.0,2025
+Switzerland,999604.0,2025
+Poland,915451.0,2025
+Belgium,689364.0,2025
+Sweden,638780.0,2025
+Argentina,604201.0,2025
+Ireland,587225.0,2025
+United Arab Emirates,568567.0,2025
+Singapore,561725.0,2025
+Austria,559218.0,2025
+Israel,550905.0,2025
+Thailand,545341.0,2025
+Philippines,507670.0,2025
+Vietnam,506600.0,2025
+Norway,503466.0,2025
+Malaysia,488250.0,2025
+Bangladesh,481856.0,2025
+Iran,478100.0,2025
+Denmark,432228.0,2025
+Hong Kong,422057.0,2025
+Colombia,419331.0,2025
+South Africa,418046.0,2025
+Romania,406202.0,2025
+Pakistan,393100.0,2025
+Chile,362240.0,2025
+Czech Republic,360233.0,2025
+Egypt,345800.0,2025
+Finland,319989.0,2025
+Portugal,319934.0,2025
+Hungary,312619.0,2025
+Kazakhstan,306629.0,2025
+Peru,294898.0,2025
+Iraq,270874.0,2025
+Greece,265171.0,2025
+Algeria,264270.0,2025
+New Zealand,262924.0,2025
+Qatar,240217.0,2025
+Ethiopia,238800.0,2025
+Nigeria,199720.0,2025
+Ukraine,189827.0,2025
+Morocco,168597.0,2025
+Kuwait,161950.0,2025
+Slovakia,152480.0,2025
+Dominican Republic,135540.0,2025
+Uzbekistan,127410.0,2025
+Ecuador,125660.0,2025
+Puerto Rico,122230.0,2025
+Guatemala,120960.0,2025
+Angola,118410.0,2025
+Kenya,116660.0,2025
+Bulgaria,115530.0,2025
+Oman,111310.0,2025
+Venezuela,109960.0,2025
+Costa Rica,100670.0,2025
+Luxembourg,96990.0,2025
+Croatia,96030.0,2025
+Panama,91739.0,2025
+Ivory Coast,86993.0,2024
+Turkmenistan,83883.0,2024
+Lithuania,82789.0,2024
+Uruguay,82605.0,2024
+Serbia,82550.0,2024
+Tanzania,79867.0,2024
+Azerbaijan,75649.0,2024
+Ghana,75307.0,2024
+Slovenia,73198.0,2024
+Belarus,73129.0,2024
+DR Congo,72483.0,2024
+Myanmar,64284.0,2024
+Uganda,55587.0,2024
+Macau,55447.0,2024
+Cameroon,53391.0,2024
+Jordan,53305.0,2024
+Tunisia,52636.0,2024
+Cambodia,51159.0,2025
+Bolivia,48172.0,2024
+Bahrain,47812.0,2024
+Latvia,45521.0,2024
+Paraguay,44937.0,2024
+Libya,44812.0,2024
+Nepal,43673.0,2024
+Estonia,43044.0,2024
+Honduras,36735.0,2024
+Zimbabwe,35919.0,2024
+El Salvador,35848.0,2024
+Cyprus,34790.0,2024
+Senegal,33685.0,2024
+Georgia,33191.0,2024
+Iceland,32919.0,2024
+Papua New Guinea,31716.0,2024
+Sudan,30873.0,2024
+Zambia,29872.0,2024
+Bosnia and Herzegovina,29078.0,2024
+Trinidad and Tobago,28365.0,2024
+Guinea,25447.0,2024
+Albania,25431.0,2024
+Armenia,25408.0,2024
+Haiti,24046.0,2024
+Mozambique,22975.0,2024
+Malta,22737.0,2024
+Mongolia,21943.0,2024
+Burkina Faso,21902.0,2024
+Mali,21662.0,2024
+Botswana,21418.0,2024
+Benin,21371.0,2024
+Guyana,21178.0,2024
+Gabon,21013.0,2024
+Jamaica,20098.0,2024
+Nicaragua,18829.0,2024
+Niger,18816.0,2024
+Chad,18697.0,2024
+Moldova,18356.0,2024
+Lebanon,21780.0,2024
+Yemen,16940.0,2024
+Madagascar,16465.0,2024
+Mauritius,16359.0,2024
+Brunei,15988.0,2024
+North Macedonia,15873.0,2024
+Kyrgyzstan,15770.0,2024
+Congo,15501.0,2024
+Laos,15190.0,2024
+Bahamas,14390.0,2024
+Rwanda,13701.0,2024
+Tajikistan,13000.0,2024
+Somalia,12804.0,2024
+Namibia,12765.0,2024
+Malawi,11241.0,2024
+Equatorial Guinea,10708.0,2024
+Mauritania,10628.0,2024
+Togo,9832.0,2024
+Montenegro,8010.0,2024
+Maldives,7199.0,2024
+Barbados,6863.0,2024
+South Sudan,6517.0,2024
+Fiji,5801.0,2024
+Eswatini,5085.0,2024
+Liberia,4754.0,2024
+Sierra Leone,4558.0,2024
+Djibouti,4364.0,2024
+Suriname,4337.0,2024
+Aruba,4069.0,2024
+Andorra,3897.0,2024
+Belize,3296.0,2024
+Bhutan,3110.0,2024
+Burundi,3075.0,2024
+Central African Republic,2810.0,2024
+Cape Verde,2718.0,2024
+Gambia,2694.0,2024
+Saint Lucia,2582.0,2024
+Lesotho,2395.0,2024
+Seychelles,2203.0,2024
+Guinea-Bissau,2151.0,2024
+Antigua and Barbuda,2127.0,2024
+San Marino,2033.0,2024
+Timor-Leste,1992.0,2024
+Solomon Islands,1707.0,2024
+Comoros,1422.0,2024
+Grenada,1406.0,2024
+Vanuatu,1289.0,2024
+Saint Kitts and Nevis,1134.0,2024
+Saint Vincent and the Grenadines,1128.0,2024
+Samoa,1024.0,2024
+São Tomé and Príncipe,751.0,2024
+Dominica,708.0,2024
+Tonga,581.0,2024
+Micronesia,484.0,2024
+Kiribati,311.0,2024
+Palau,308.0,2024
+Marshall Islands,305.0,2024
+Nauru,161.0,2024
+Tuvalu,66.0,2024

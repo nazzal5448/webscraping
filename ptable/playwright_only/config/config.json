@@ -1,0 +1,29 @@
+{
+    "url": "https://pubchem.ncbi.nlm.nih.gov/ptable/",
+    "parentContainer": {
+        "selector": "div.ptable div.element",
+        "returns": "[Node]"
+    },
+    "items": {
+        "name": {
+            "selector": "button.block > div.hidden[data-tooltip='Name']",
+            "returns": "[Node]"
+        },
+        "symbol": {
+            "selector": "button.block > div[data-tooltip='Symbol']",
+            "returns": "[Node]"
+        },
+        "atomicNumber": {
+            "selector": "button.block > div.w-full > div[data-tooltip='Atomic Number']",
+            "returns": "[Node]"
+        },
+        "atomicMass": {
+            "selector": "button.block > div.w-full  div.hidden[data-tooltip='Atomic Mass, u']",
+            "returns": "[Node]"
+        },
+        "chemicalGroup": {
+            "selector": "button.block > div.hidden[data-tooltip='Chemical Group Block']",
+            "returns": "[Node]"
+        }
+    }
+}

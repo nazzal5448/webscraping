@@ -1,0 +1,119 @@
+atomicMass,atomicNumber,chemicalGroup,name,symbol
+1.008,1,nonmetal,Hydrogen,H
+4.0026,2,noble gas,Helium,He
+7.0,3,alkali metal,Lithium,Li
+9.012183,4,alkaline earth metal,Beryllium,Be
+10.81,5,metalloid,Boron,B
+12.011,6,nonmetal,Carbon,C
+14.007,7,nonmetal,Nitrogen,N
+15.999,8,nonmetal,Oxygen,O
+18.99840316,9,halogen,Fluorine,F
+20.18,10,noble gas,Neon,Ne
+22.9897693,11,alkali metal,Sodium,Na
+24.305,12,alkaline earth metal,Magnesium,Mg
+26.981538,13,post-transition metal,Aluminum,Al
+28.085,14,metalloid,Silicon,Si
+30.973762,15,nonmetal,Phosphorus,P
+32.07,16,nonmetal,Sulfur,S
+35.45,17,halogen,Chlorine,Cl
+39.9,18,noble gas,Argon,Ar
+39.0983,19,alkali metal,Potassium,K
+40.08,20,alkaline earth metal,Calcium,Ca
+44.95591,21,transition metal,Scandium,Sc
+47.867,22,transition metal,Titanium,Ti
+50.9415,23,transition metal,Vanadium,V
+51.996,24,transition metal,Chromium,Cr
+54.93804,25,transition metal,Manganese,Mn
+55.84,26,transition metal,Iron,Fe
+58.93319,27,transition metal,Cobalt,Co
+58.693,28,transition metal,Nickel,Ni
+63.55,29,transition metal,Copper,Cu
+65.4,30,transition metal,Zinc,Zn
+69.723,31,post-transition metal,Gallium,Ga
+72.63,32,metalloid,Germanium,Ge
+74.92159,33,metalloid,Arsenic,As
+78.97,34,nonmetal,Selenium,Se
+79.9,35,halogen,Bromine,Br
+83.8,36,noble gas,Krypton,Kr
+85.468,37,alkali metal,Rubidium,Rb
+87.62,38,alkaline earth metal,Strontium,Sr
+88.90584,39,transition metal,Yttrium,Y
+91.22,40,transition metal,Zirconium,Zr
+92.90637,41,transition metal,Niobium,Nb
+95.95,42,transition metal,Molybdenum,Mo
+96.90636,43,transition metal,Technetium,Tc
+101.1,44,transition metal,Ruthenium,Ru
+102.9055,45,transition metal,Rhodium,Rh
+106.42,46,transition metal,Palladium,Pd
+107.868,47,transition metal,Silver,Ag
+112.41,48,transition metal,Cadmium,Cd
+114.818,49,post-transition metal,Indium,In
+118.71,50,post-transition metal,Tin,Sn
+121.76,51,metalloid,Antimony,Sb
+127.6,52,metalloid,Tellurium,Te
+126.9045,53,halogen,Iodine,I
+131.29,54,noble gas,Xenon,Xe
+132.905452,55,alkali metal,Cesium,Cs
+137.33,56,alkaline earth metal,Barium,Ba
+138.9055,57,lanthanide,Lanthanum,La
+140.116,58,lanthanide,Cerium,Ce
+140.90766,59,lanthanide,Praseodymium,Pr
+144.24,60,lanthanide,Neodymium,Nd
+144.91276,61,lanthanide,Promethium,Pm
+150.4,62,lanthanide,Samarium,Sm
+151.964,63,lanthanide,Europium,Eu
+157.25,64,lanthanide,Gadolinium,Gd
+158.92535,65,lanthanide,Terbium,Tb
+162.5,66,lanthanide,Dysprosium,Dy
+164.93033,67,lanthanide,Holmium,Ho
+167.26,68,lanthanide,Erbium,Er
+168.93422,69,lanthanide,Thulium,Tm
+173.05,70,lanthanide,Ytterbium,Yb
+174.9667,71,lanthanide,Lutetium,Lu
+178.49,72,transition metal,Hafnium,Hf
+180.9479,73,transition metal,Tantalum,Ta
+183.84,74,transition metal,Tungsten,W
+186.207,75,transition metal,Rhenium,Re
+190.2,76,transition metal,Osmium,Os
+192.22,77,transition metal,Iridium,Ir
+195.08,78,transition metal,Platinum,Pt
+196.96657,79,transition metal,Gold,Au
+200.59,80,transition metal,Mercury,Hg
+204.383,81,post-transition metal,Thallium,Tl
+207.0,82,post-transition metal,Lead,Pb
+208.9804,83,post-transition metal,Bismuth,Bi
+208.98243,84,metalloid,Polonium,Po
+209.98715,85,halogen,Astatine,At
+222.01758,86,noble gas,Radon,Rn
+223.01973,87,alkali metal,Francium,Fr
+226.02541,88,alkaline earth metal,Radium,Ra
+227.02775,89,actinide,Actinium,Ac
+232.038,90,actinide,Thorium,Th
+231.03588,91,actinide,Protactinium,Pa
+238.0289,92,actinide,Uranium,U
+237.048172,93,actinide,Neptunium,Np
+244.0642,94,actinide,Plutonium,Pu
+243.06138,95,actinide,Americium,Am
+247.07035,96,actinide,Curium,Cm
+247.07031,97,actinide,Berkelium,Bk
+251.07959,98,actinide,Californium,Cf
+252.083,99,actinide,Einsteinium,Es
+257.09511,100,actinide,Fermium,Fm
+258.09843,101,actinide,Mendelevium,Md
+259.101,102,actinide,Nobelium,No
+266.12,103,actinide,Lawrencium,Lr
+267.122,104,transition metal,Rutherfordium,Rf
+268.126,105,transition metal,Dubnium,Db
+269.128,106,transition metal,Seaborgium,Sg
+270.133,107,transition metal,Bohrium,Bh
+269.1336,108,transition metal,Hassium,Hs
+277.154,109,transition metal,Meitnerium,Mt
+282.166,110,transition metal,Darmstadtium,Ds
+282.169,111,transition metal,Roentgenium,Rg
+286.179,112,transition metal,Copernicium,Cn
+286.182,113,post-transition metal,Nihonium,Nh
+290.192,114,post-transition metal,Flerovium,Fl
+290.196,115,post-transition metal,Moscovium,Mc
+293.205,116,post-transition metal,Livermorium,Lv
+294.211,117,halogen,Tennessine,Ts
+295.216,118,noble gas,Oganesson,Og

@@ -1,0 +1,3 @@
+selectolax
+playwright
+pandas
